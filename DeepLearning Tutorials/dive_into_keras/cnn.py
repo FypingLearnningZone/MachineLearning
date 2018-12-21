@@ -17,6 +17,9 @@ File:cnn.py
 
 '''
 #导入各种用到的模块组件
+
+###https://keras-cn.readthedocs.io/en/latest/#keraspython
+
 from __future__ import absolute_import
 from __future__ import print_function
 from keras.models import Sequential
